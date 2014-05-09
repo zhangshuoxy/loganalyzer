@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/loganalyzer.iml" filepath="$PROJECT_DIR$/loganalyzer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loganalyzer-dao/loganalyzer-dao.iml" filepath="$PROJECT_DIR$/loganalyzer-dao/loganalyzer-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loganalyzer-processor/loganalyzer-processor.iml" filepath="$PROJECT_DIR$/loganalyzer-processor/loganalyzer-processor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loganalyzer-web/loganalyzer-web.iml" filepath="$PROJECT_DIR$/loganalyzer-web/loganalyzer-web.iml" />
+    </modules>
+  </component>
+</project>
+

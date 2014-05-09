@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="loganalyzer-web:war">
+    <output-path>$PROJECT_DIR$/loganalyzer-web/target</output-path>
+    <root id="archive" name="loganalyzer.war">
+      <element id="artifact" artifact-name="loganalyzer-web:war exploded" />
+    </root>
+  </artifact>
+</component>
